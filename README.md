@@ -1,14 +1,14 @@
 # PowerBI HR Analytics Dashboard
 Problem Objective:
-This Power BI dashboard is designed to analyze the problem that occurred in a company for employee attrition. 
+This Power BI dashboard is designed to analyze the problem that occurred in a company for employee attrition.<br>
 
-Steps:
-1. Data Visualization in Excel pivot table to detect which charts are making sense in our analysis.
-2. Now in Power BI, get the data from the source and opt for transform instead of the load directly. 
-3. Data validation and data wrangling: 
-     a. Checking the Null values and removing them.
-     b. Checking any duplicate values and removing corresponding records. 
-     c. Checking any spelling mistakes and rectifying errors.
+Steps:<br>
+1. Data Visualization in Excel pivot table to detect which charts are making sense in our analysis.<br>
+2. Now in Power BI, get the data from the source and opt for transform instead of the load directly. <br>
+3. Data validation and data wrangling: <br>
+     a. Checking the Null values and removing them.<br>
+     b. Checking any duplicate values and removing corresponding records. <br>
+     c. Checking any spelling mistakes and rectifying errors.<br>
      d. Detecting proper datatypes of each attribute. 
 4. Close and apply.
 5. In the report view, the selection of all the KPIs that the analysis process needs to magnify. 
